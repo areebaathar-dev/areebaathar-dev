@@ -1,5 +1,13 @@
-# 💫 About Me:
-# Hi, I'm Areeba Athar 👋<br><br>BS Computer Science Student at NFC-IER Faisalabad.<br><br>## Skills<br>- PHP<br>- MySQL<br>- Python<br>- C++<br>- HTML/CSS<br>- Bootstrap<br><br>## Projects<br>- University ERP System<br>- Expense Management System<br>- YouTube Content Analyzer & Downloader<br><br>## Currently Learning<br>- Machine Learning<br>- Database Systems<br>- Software Development
+# Hi 👋, I'm Areeba Athar
+**BS Computer Science Student at NFC-IEFR Faisalabad.**
+
+Email Me 👉 ✉️ **areebaathar2005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- **Skills:** PHP, MySQL, Python, C++, HTML, CSS, Bootstrap
+
+- **Projects:** University ERP System, Expense Management System, YouTube Content Analyzer & Downloader 
+
+- **Currently Learning:** Machine Learning, Database Systems, Software Development
 
 
 ## 🌐 Socials:
